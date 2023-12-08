@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Jonta254
+- 👋 Hi, I’m @Jonta254 @worldcoin project
+let's add up and support worldcoin for it is the best.
 - 👀 I’m interested in business 
 - 🌱 I’m currently buying and selling coins.
 - 💞️ I’m looking to collaborate on ...
