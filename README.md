@@ -1,13 +1,16 @@
-# jontAWorld
+# I'm Josiah
 
-Hi, I'm Josiah, also known as **jontAWorld**.
+Also known as **jontAWorld**.
 
 I'm a developer building practical digital tools, learning in public, and turning ideas into working projects one commit at a time.
+
+I also build around **World Network** and **Pi Network**, with an interest in identity, payments, community tools, and apps that can reach real people.
 
 ## What I'm About
 
 - Building web apps that are simple, useful, and easy to understand
 - Exploring full-stack development, APIs, and real-world product ideas
+- Building with World Network and Pi Network ecosystems
 - Learning by shipping projects, improving them, and sharing the journey
 - Creating tech that connects people, solves problems, or makes daily life easier
 
@@ -22,7 +25,7 @@ I'm a developer building practical digital tools, learning in public, and turnin
 
 - Sharpening my developer portfolio
 - Building better full-stack projects
-- Working on ideas around payments, community, and useful everyday apps
+- Working on ideas around World Network, Pi Network, payments, community, and useful everyday apps
 - Keeping my GitHub cleaner, more focused, and more professional
 
 ## Featured Direction
