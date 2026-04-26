@@ -1,28 +1,36 @@
-# Hi, I'm Josiah
+# jontAWorld
 
-I'm a developer focused on building practical, useful software and improving my skills through real projects.
+Hi, I'm Josiah, also known as **jontAWorld**.
 
-## About Me
+I'm a developer building practical digital tools, learning in public, and turning ideas into working projects one commit at a time.
 
-- Interested in web development, backend systems, and clean user experiences
-- Currently learning and building projects that solve real problems
-- Open to collaboration, feedback, and new opportunities
+## What I'm About
 
-## Skills
+- Building web apps that are simple, useful, and easy to understand
+- Exploring full-stack development, APIs, and real-world product ideas
+- Learning by shipping projects, improving them, and sharing the journey
+- Creating tech that connects people, solves problems, or makes daily life easier
+
+## Tech Stack
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express
 - Tools: Git, GitHub, VS Code
-- Learning: full-stack development and modern web technologies
+- Currently growing: full-stack development, product thinking, and clean code habits
 
 ## Current Focus
 
-- Building stronger full-stack projects
-- Writing cleaner, more maintainable code
-- Growing my GitHub portfolio with useful projects
+- Sharpening my developer portfolio
+- Building better full-stack projects
+- Working on ideas around payments, community, and useful everyday apps
+- Keeping my GitHub cleaner, more focused, and more professional
+
+## Featured Direction
+
+I like projects with purpose: tools for people, systems that save time, and products that can grow from a simple idea into something real.
 
 ## Connect
 
 - GitHub: [Jonta254](https://github.com/Jonta254)
 
-Thanks for visiting my profile.
+Welcome to **jontAWorld**.
