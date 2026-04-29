@@ -1,39 +1,37 @@
+![Josiah profile banner](assets/josiah-world-banner.svg)
+
 # I'm Josiah
 
-Also known as **jontAWorld**.
+I'm a developer building practical digital products around **World Network**, **Pi Network**, payments, community tools, and useful web applications.
 
-I'm a developer building practical digital tools, learning in public, and turning ideas into working projects one commit at a time.
+My focus is simple: learn deeply, build consistently, and turn ideas into projects people can actually use.
 
-I also build around **World Network** and **Pi Network**, with an interest in identity, payments, community tools, and apps that can reach real people.
+## Professional Focus
 
-## What I'm About
+- **World Network development:** identity-aware apps, user verification flows, and practical ecosystem ideas
+- **Pi Network development:** payment-focused concepts, community utilities, and product experiments
+- **Full-stack web development:** clean interfaces, APIs, backend logic, and maintainable project structure
+- **Product thinking:** building tools that are useful, understandable, and ready to improve over time
 
-- Building web apps that are simple, useful, and easy to understand
-- Exploring full-stack development, APIs, and real-world product ideas
-- Building with World Network and Pi Network ecosystems
-- Learning by shipping projects, improving them, and sharing the journey
-- Creating tech that connects people, solves problems, or makes daily life easier
-
-## Tech Stack
+## Technology
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express
 - Tools: Git, GitHub, VS Code
-- Currently growing: full-stack development, product thinking, and clean code habits
+- Growing into: full-stack architecture, API design, authentication, and production-ready workflows
 
-## Current Focus
+![Focus map](assets/focus-map.svg)
 
-- Sharpening my developer portfolio
-- Building better full-stack projects
-- Working on ideas around World Network, Pi Network, payments, community, and useful everyday apps
-- Keeping my GitHub cleaner, more focused, and more professional
+## Current Direction
 
-## Featured Direction
+I'm sharpening my portfolio by building stronger, cleaner projects with real use cases. I care about products that connect people, make digital payments easier, support communities, and turn small ideas into working software.
 
-I like projects with purpose: tools for people, systems that save time, and products that can grow from a simple idea into something real.
+## What Drives My Work
+
+I like technology that feels practical. The best projects are not just code on a screen; they solve a problem, create access, or help someone move faster.
 
 ## Connect
 
 - GitHub: [Jonta254](https://github.com/Jonta254)
 
-Welcome to **jontAWorld**.
+**jontAWorld** is where I build, learn, and keep moving.

@@ -1,0 +1,55 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Josiah profile banner</title>
+  <desc id="desc">A professional banner for Josiah, a World Network and Pi Network developer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.52" stop-color="#172554"/>
+      <stop offset="1" stop-color="#052E2B"/>
+    </linearGradient>
+    <radialGradient id="pulse" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(940 150) rotate(130) scale(360 270)">
+      <stop stop-color="#22D3EE" stop-opacity="0.42"/>
+      <stop offset="0.55" stop-color="#2DD4BF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="22" flood-color="#020617" flood-opacity="0.36"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#pulse)"/>
+
+  <path d="M792 67C880 28 1000 43 1077 111C1157 181 1163 292 1093 344C1019 399 886 388 804 319C720 248 705 105 792 67Z" fill="#0F766E" opacity="0.18"/>
+  <path d="M1019 58C1093 72 1161 117 1192 181C1221 242 1204 307 1152 348" stroke="#67E8F9" stroke-opacity="0.35" stroke-width="2"/>
+  <path d="M880 352C815 331 769 285 750 226C730 165 752 102 802 64" stroke="#A7F3D0" stroke-opacity="0.22" stroke-width="2"/>
+
+  <g transform="translate(804 94)" filter="url(#soft)">
+    <circle cx="142" cy="116" r="88" fill="#020617" fill-opacity="0.48" stroke="#5EEAD4" stroke-opacity="0.55" stroke-width="2"/>
+    <circle cx="142" cy="116" r="52" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.62" stroke-width="2"/>
+    <circle cx="142" cy="116" r="15" fill="#F8FAFC"/>
+    <circle cx="76" cy="62" r="9" fill="#67E8F9"/>
+    <circle cx="213" cy="74" r="9" fill="#A7F3D0"/>
+    <circle cx="222" cy="164" r="9" fill="#FACC15"/>
+    <circle cx="78" cy="178" r="9" fill="#CBD5E1"/>
+    <path d="M85 68L129 105M156 105L206 80M157 126L211 160M129 128L85 174" stroke="#E2E8F0" stroke-opacity="0.52" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(70 78)">
+    <rect x="0" y="0" width="128" height="36" rx="18" fill="#E2E8F0" fill-opacity="0.10" stroke="#CBD5E1" stroke-opacity="0.18"/>
+    <text x="22" y="24" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1">JONTAWORLD</text>
+
+    <text x="0" y="108" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="800">I'm Josiah</text>
+    <text x="0" y="158" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="500">World Network developer, Pi Network builder, and full-stack learner.</text>
+    <text x="0" y="205" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="19">Building practical tools around identity, payments, community, and useful web apps.</text>
+
+    <g transform="translate(0 248)">
+      <rect width="166" height="42" rx="21" fill="#14B8A6" fill-opacity="0.18" stroke="#5EEAD4" stroke-opacity="0.42"/>
+      <text x="22" y="27" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">World Network</text>
+      <rect x="184" width="132" height="42" rx="21" fill="#FACC15" fill-opacity="0.15" stroke="#FDE68A" stroke-opacity="0.40"/>
+      <text x="209" y="27" fill="#FEF3C7" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Pi Network</text>
+      <rect x="334" width="128" height="42" rx="21" fill="#38BDF8" fill-opacity="0.14" stroke="#BAE6FD" stroke-opacity="0.34"/>
+      <text x="360" y="27" fill="#E0F2FE" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Full Stack</text>
+    </g>
+  </g>
+</svg>
