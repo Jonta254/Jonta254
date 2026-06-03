@@ -1,6 +1,6 @@
 ![Josiah profile banner](assets/josiah-world-banner.svg)
 
-# Josiah Ontita — Builder on World Network
+# Josiah (jontAWorld) — Builder on World Network
 
 > *Turning real ideas into apps that verified humans actually use.*
 
@@ -19,13 +19,13 @@ I'm a full-stack developer focused on the **World Network** ecosystem — buildi
 
 ---
 
-## Skills & Tools
+## How I Build
 
-**Frontend** — HTML · CSS · JavaScript · React · Next.js · Tailwind  
-**Backend** — Node.js · Express · REST APIs  
-**Data** — Supabase · PostgreSQL · Row-Level Security  
-**Blockchain / Payments** — World ID · World Pay · MiniKit · M-Pesa Daraja API · Pi SDK  
-**Tooling** — Git · GitHub · VS Code · Vercel
+I write interfaces in **HTML, CSS, and JavaScript** — and reach for **React / Next.js** when the project needs it. On the backend I'm most comfortable with **Node.js and Express**, wiring up REST APIs and connecting them to **Supabase** for auth, database, and real-time features.
+
+The payments side is where things get specific. I've worked directly with the **M-Pesa Daraja API** (STK push, C2B, callbacks) and the **World Pay / MiniKit SDK** — both in production flows where a broken callback actually costs someone money. That tends to sharpen your attention to detail.
+
+I use **Git and GitHub** daily, deploy on **Vercel**, and have enough **PostgreSQL / RLS** experience to design schemas that don't turn into security holes later.
 
 ---
 
