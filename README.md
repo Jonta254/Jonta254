@@ -1,56 +1,35 @@
-![Josiah profile banner](assets/josiah-world-banner.svg)
+# Josiah Okindo
 
-# Josiah (jontAWorld) — Builder on World Network
+Full-stack developer building practical products for identity, payments, and online communities.
 
-> *Turning real ideas into apps that verified humans actually use.*
+I work across product design, frontend development, backend APIs, and deployment. My current focus is World Mini Apps and payment tools that connect global digital assets with everyday mobile-money systems.
 
-I'm a full-stack developer focused on the **World Network** ecosystem — building identity-aware mini apps, community tools, and crypto-to-cash payment flows. My work sits at the intersection of blockchain access, everyday utility, and human verification.
+## Current work
 
----
+### [HumanChain](https://github.com/Jonta254/HumanChain)
 
-## What I'm Building
+A World Mini App for verified questions, community contributions, stories, and local exchange. I am responsible for the product direction, interface, World ID integration, payment flows, and the Next.js and Supabase architecture.
 
-| Project | Description | Stack |
-|---|---|---|
-| **[HumanChain](https://github.com/Jonta254/HumanChain)** | World Mini App — verified humans ask questions, join daily chains, vote on global verdicts, and read monthly human stories | Next.js · TypeScript · Supabase · World ID |
-| **[WorldTMpesa](https://github.com/Jonta254/WorldTMpesa)** | Crypto ↔ M-Pesa exchange — sell or buy $WLD/USDC using KES via M-Pesa & Airtel Money | Node.js · Express · M-Pesa API |
-| **[KIND Quest](https://github.com/Jonta254/KIND-Quest)** | Kindness-as-a-game — daily empathy missions, $WLD stakes, $KIND token rewards | HTML · JS · World Pay |
-| **[Questora](https://github.com/Jonta254/Questora)** | Pi Network mainnet app — quests, streaks, badges, leaderboards, referrals | JavaScript · Pi SDK |
+### [WorldTMpesa](https://github.com/Jonta254/WorldTMpesa)
 
----
+A payment project connecting WLD and USDC transactions with M-Pesa and Airtel Money. My work centers on Node.js APIs, provider callbacks, transaction state, and safer failure recovery.
 
-## How I Build
+## Other projects
 
-I write interfaces in **HTML, CSS, and JavaScript** — and reach for **React / Next.js** when the project needs it. On the backend I'm most comfortable with **Node.js and Express**, wiring up REST APIs and connecting them to **Supabase** for auth, database, and real-time features.
+- [KIND Quest](https://github.com/Jonta254/KIND-Quest) - daily community missions built around World payment mechanics.
+- [Questora](https://github.com/Jonta254/Questora) - a Pi Network quest app with streaks, referrals, and leaderboards.
 
-The payments side is where things get specific. I've worked directly with the **M-Pesa Daraja API** (STK push, C2B, callbacks) and the **World Pay / MiniKit SDK** — both in production flows where a broken callback actually costs someone money. That tends to sharpen your attention to detail.
+## Technical focus
 
-I use **Git and GitHub** daily, deploy on **Vercel**, and have enough **PostgreSQL / RLS** experience to design schemas that don't turn into security holes later.
+- Frontend: TypeScript, JavaScript, React, Next.js, HTML, CSS
+- Backend: Node.js, Express, PostgreSQL, Supabase
+- Integrations: World ID, MiniKit, M-Pesa Daraja, Pi SDK
+- Delivery: GitHub, Vercel, API testing, payment verification
 
----
+I pay particular attention to authentication, payment confirmation, permissions, mobile usability, and recovery when a transaction does not complete normally.
 
-## What Drives the Work
+## Contact
 
-The projects I care about most share a common thread: they require a **real human** on the other end. World ID lets me build that guarantee into the product from day one — no bots, no duplicate accounts, just verified people doing something meaningful together.
+[jontaworld@gmail.com](mailto:jontaworld@gmail.com)
 
-I'm drawn to problems where mobile money, crypto access, and community mechanics overlap. There are millions of people in East Africa and globally who are one useful app away from participating in the digital economy. That gap is where I build.
-
----
-
-## Let's Work Together
-
-I'm open to collaboration on:
-
-- **World Mini Apps** — if you have an idea for a World ecosystem app and need a developer, reach out
-- **Crypto ↔ Fiat integrations** — M-Pesa, Airtel, mobile money rails paired with crypto payments
-- **Community or social tools** — leaderboards, voting systems, reputation mechanics
-- **Freelance or contract work** — full-stack web development, API integrations, product builds from scratch
-
-If any of that matches what you're working on, I'd genuinely like to hear from it.
-
-📬 **brianokindo2022@gmail.com**  
-🐙 **[github.com/Jonta254](https://github.com/Jonta254)**
-
----
-
-*Building consistently. Shipping real things. Always learning.*
+I am open to focused collaboration on World Mini Apps, mobile-money integrations, and full-stack product development.
