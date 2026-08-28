@@ -1,27 +1,35 @@
 # Josiah Okindo
 
-`jontAWorld` | Full-stack developer
+Full-stack developer building practical products for identity, payments, and online communities.
 
-I build mobile-first products around digital identity and payment infrastructure. Most of my current work is in the World Network and Pi Network ecosystems, with a practical focus on verified users, mobile money, and dependable transaction flows.
+I work across product design, frontend development, backend APIs, and deployment. My current focus is World Mini Apps and payment tools that connect global digital assets with everyday mobile-money systems.
 
-## Selected work
+## Current work
 
-| Project | What it does | My focus |
-| --- | --- | --- |
-| [HumanChain](https://github.com/Jonta254/HumanChain) | A World Mini App for questions, community contributions, stories, and local exchange | Product design, Next.js, World ID, payments, Supabase |
-| [WorldTMpesa](https://github.com/Jonta254/WorldTMpesa) | Connects WLD and USDC transactions with M-Pesa and Airtel Money | Node.js APIs, payment callbacks, transaction safety |
-| [KIND Quest](https://github.com/Jonta254/KIND-Quest) | Daily community missions with World payment mechanics | Frontend development, MiniKit integration |
-| [Questora](https://github.com/Jonta254/Questora) | A Pi Network quest app with streaks, referrals, and leaderboards | JavaScript, Pi SDK, product flows |
+### [HumanChain](https://github.com/Jonta254/HumanChain)
 
-## Tools I use
+A World Mini App for verified questions, community contributions, stories, and local exchange. I am responsible for the product direction, interface, World ID integration, payment flows, and the Next.js and Supabase architecture.
 
-TypeScript, JavaScript, React, Next.js, Node.js, Express, PostgreSQL, Supabase, World MiniKit, M-Pesa Daraja, Pi SDK, GitHub, and Vercel.
+### [WorldTMpesa](https://github.com/Jonta254/WorldTMpesa)
 
-I care most about the parts users notice when they fail: authentication, payment confirmation, permissions, mobile layouts, and recovery from incomplete transactions.
+A payment project connecting WLD and USDC transactions with M-Pesa and Airtel Money. My work centers on Node.js APIs, provider callbacks, transaction state, and safer failure recovery.
+
+## Other projects
+
+- [KIND Quest](https://github.com/Jonta254/KIND-Quest) - daily community missions built around World payment mechanics.
+- [Questora](https://github.com/Jonta254/Questora) - a Pi Network quest app with streaks, referrals, and leaderboards.
+
+## Technical focus
+
+- Frontend: TypeScript, JavaScript, React, Next.js, HTML, CSS
+- Backend: Node.js, Express, PostgreSQL, Supabase
+- Integrations: World ID, MiniKit, M-Pesa Daraja, Pi SDK
+- Delivery: GitHub, Vercel, API testing, payment verification
+
+I pay particular attention to authentication, payment confirmation, permissions, mobile usability, and recovery when a transaction does not complete normally.
 
 ## Contact
 
-- Email: [brianokindo2022@gmail.com](mailto:brianokindo2022@gmail.com)
-- GitHub: [@Jonta254](https://github.com/Jonta254)
+[jontaworld@gmail.com](mailto:jontaworld@gmail.com)
 
-Open to focused collaborations involving World Mini Apps, mobile-money integrations, and full-stack product development.
+I am open to focused collaboration on World Mini Apps, mobile-money integrations, and full-stack product development.
