@@ -1,35 +1,37 @@
-# Josiah Okindo
+<p align="center">
+  <img src="assets/jontaworld-dashboard.svg" alt="jontAWorld - Josiah, digital product developer" width="100%" />
+</p>
 
-Full-stack developer building practical products for identity, payments, and online communities.
+## What I do
 
-I work across product design, frontend development, backend APIs, and deployment. My current focus is World Mini Apps and payment tools that connect global digital assets with everyday mobile-money systems.
+I design and build digital products from the first working flow to a production-ready release. My work covers the interface, backend, third-party integrations, deployment, and the details that keep real users from getting stuck.
 
-## Current work
+<table>
+  <tr>
+    <td width="50%" valign="top"><strong>Product engineering</strong><br><br>Turn an idea into a clear user flow, responsive interface, working application, and maintainable codebase.</td>
+    <td width="50%" valign="top"><strong>Payments and integrations</strong><br><br>Connect payment providers, wallets, identity systems, callbacks, webhooks, and external APIs safely.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><strong>Backend and data</strong><br><br>Design APIs, authentication, database models, permissions, validation, and operational admin tools.</td>
+    <td width="50%" valign="top"><strong>Launch and reliability</strong><br><br>Prepare applications for deployment, mobile use, failure recovery, monitoring, and continued iteration.</td>
+  </tr>
+</table>
 
-### [HumanChain](https://github.com/Jonta254/HumanChain)
+## Working stack
 
-A World Mini App for verified questions, community contributions, stories, and local exchange. I am responsible for the product direction, interface, World ID integration, payment flows, and the Next.js and Supabase architecture.
+- **Frontend:** TypeScript, JavaScript, React, Next.js, HTML, CSS
+- **Backend:** Node.js, Express, PostgreSQL, Supabase
+- **Integrations:** World ID, MiniKit, M-Pesa Daraja, Pi SDK, REST APIs
+- **Delivery:** Git, GitHub, Vercel, testing, deployment, technical documentation
 
-### [WorldTMpesa](https://github.com/Jonta254/WorldTMpesa)
+## Available for
 
-A payment project connecting WLD and USDC transactions with M-Pesa and Airtel Money. My work centers on Node.js APIs, provider callbacks, transaction state, and safer failure recovery.
-
-## Other projects
-
-- [KIND Quest](https://github.com/Jonta254/KIND-Quest) - daily community missions built around World payment mechanics.
-- [Questora](https://github.com/Jonta254/Questora) - a Pi Network quest app with streaks, referrals, and leaderboards.
-
-## Technical focus
-
-- Frontend: TypeScript, JavaScript, React, Next.js, HTML, CSS
-- Backend: Node.js, Express, PostgreSQL, Supabase
-- Integrations: World ID, MiniKit, M-Pesa Daraja, Pi SDK
-- Delivery: GitHub, Vercel, API testing, payment verification
-
-I pay particular attention to authentication, payment confirmation, permissions, mobile usability, and recovery when a transaction does not complete normally.
+- World Mini Apps and identity-aware products
+- Mobile-money, wallet, and payment integrations
+- Full-stack MVPs and product rebuilds
+- API development and production hardening
 
 ## Contact
 
+**Josiah / jontAWorld**
 [jontaworld@gmail.com](mailto:jontaworld@gmail.com)
-
-I am open to focused collaboration on World Mini Apps, mobile-money integrations, and full-stack product development.

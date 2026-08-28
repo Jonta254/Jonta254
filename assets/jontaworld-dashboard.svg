@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-labelledby="title desc">
+  <title id="title">jontAWorld developer dashboard</title>
+  <desc id="desc">Josiah, a digital product developer working across product engineering, identity, payments, APIs, and deployment.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0D12"/>
+      <stop offset="1" stop-color="#121923"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="390" rx="22" fill="url(#bg)"/>
+  <rect width="1280" height="390" rx="22" fill="url(#grid)"/>
+  <rect x="34" y="34" width="1212" height="322" rx="14" fill="none" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <circle cx="62" cy="62" r="5" fill="#9FE870"/>
+  <circle cx="80" cy="62" r="5" fill="#FFFFFF" fill-opacity="0.20"/>
+  <circle cx="98" cy="62" r="5" fill="#FFFFFF" fill-opacity="0.20"/>
+  <text x="122" y="68" fill="#FFFFFF" fill-opacity="0.50" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="2">DEVELOPER PROFILE / 2026</text>
+
+  <text x="70" y="160" fill="#9FE870" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">JONTAWORLD</text>
+  <text x="66" y="224" fill="#F4F7FA" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="750">jontAWorld</text>
+  <text x="70" y="266" fill="#F4F7FA" fill-opacity="0.70" font-family="Segoe UI, Arial, sans-serif" font-size="22">Josiah / Digital product developer</text>
+  <text x="70" y="306" fill="#F4F7FA" fill-opacity="0.45" font-family="Segoe UI, Arial, sans-serif" font-size="16">Ideas to interfaces. APIs to production.</text>
+  <rect x="70" y="326" width="168" height="5" rx="2.5" fill="#9FE870"/>
+
+  <line x1="650" y1="100" x2="650" y2="320" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <text x="692" y="116" fill="#FFFFFF" fill-opacity="0.35" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="2">CAPABILITY DASHBOARD</text>
+
+  <rect x="692" y="140" width="240" height="76" rx="10" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <text x="712" y="166" fill="#9FE870" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">01 / BUILD</text>
+  <text x="712" y="194" fill="#F4F7FA" font-family="Segoe UI, Arial, sans-serif" font-size="17">Product engineering</text>
+
+  <rect x="950" y="140" width="240" height="76" rx="10" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <text x="970" y="166" fill="#9FE870" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">02 / CONNECT</text>
+  <text x="970" y="194" fill="#F4F7FA" font-family="Segoe UI, Arial, sans-serif" font-size="17">Identity and payments</text>
+
+  <rect x="692" y="234" width="240" height="76" rx="10" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <text x="712" y="260" fill="#9FE870" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">03 / SYSTEMS</text>
+  <text x="712" y="288" fill="#F4F7FA" font-family="Segoe UI, Arial, sans-serif" font-size="17">Backend and APIs</text>
+
+  <rect x="950" y="234" width="240" height="76" rx="10" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <text x="970" y="260" fill="#9FE870" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">04 / SHIP</text>
+  <text x="970" y="288" fill="#F4F7FA" font-family="Segoe UI, Arial, sans-serif" font-size="17">Launch and reliability</text>
+</svg>
